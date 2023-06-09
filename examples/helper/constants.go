@@ -16,6 +16,14 @@ const (
 )
 
 const (
+	ArbitrumRpc     = "https://arbitrum-one.publicnode.com"
+	ArbitrumChainId = 42161
+
+	AWTHAddr  = "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1"
+	AUsdcAddr = "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9"
+)
+
+const (
 	ContractV3Factory            = "0x1F98431c8aD98523631AE4a59f267346ea31F984"
 	ContractV3SwapRouterV1       = "0xE592427A0AEce92De3Edee1F18E0157C05861564"
 	ContractV3SwapRouterV2       = "0x68b3465833fb72A70ecDF485E0e4C7bD8665Fc45"
